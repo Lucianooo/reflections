@@ -17,3 +17,7 @@ one instead of another?
 	Clones: A repository cloned into a new directory. 
 	Branches: A branch it Git is simply a lightweight movable pointer to one of the commits.
 	The default branch is master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	Local is up-to-date and it helps to see all previous changes when committing something
