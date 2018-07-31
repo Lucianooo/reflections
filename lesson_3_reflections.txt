@@ -21,3 +21,10 @@ one instead of another?
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	Local is up-to-date and it helps to see all previous changes when committing something
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Maybe saving the changes in different files and sending these files to my colleagues (probably
+	the latest file). It's harder to see the changes since without Git it's not that easy to spot
+	what has been changed or why something is no longer working. The only thing that comes to my mind
+	that might be easier is that you don't have to learn Git or get familiar with GitHub. 
